@@ -19,7 +19,9 @@ img {
 /*CUENTA REGRESIVA*/
 
 @media (max-width: 730px) {
-
+.portada{
+  margin-top: 20%;
+}
 .cuatro{
   text-align: center;
   font-family: 'Dancing Script', cursive; 
@@ -72,7 +74,7 @@ img {
   margin-top: 25%;
 background-color:#B2566D;
 padding: 5px;
-margin-top: 24%;
+margin-top: 28%;
 }
 
 .florblanca{
